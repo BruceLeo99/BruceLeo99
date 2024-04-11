@@ -19,19 +19,20 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/yixingwang-ai" target="_blank">
+  <a href="https://www.linkedin.com/in/yixingwang-ai" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="yixingWang131@gmail.com" target="_blank">
+  <a href="mailto:yixingWang131@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="y41.wang@student.vu.nl" target="_blank">
+  <a href="mailto:y41.wang@student.vu.nl" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://stackoverflow.com/users/19512917/yixing-wang" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
 </div>
+
 
 ###
 
