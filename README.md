@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- A comprehensive analysis of the efficacy of Therapeutic Chatbots (Bachelor’s Project, available on Linkedin)<br>- A Small-Scale Knowledge Graph of the Characters in Game of Thrones, programmed with Protégé<br>- An interactive program for user motivation and a brief exercise on NAO Robot<br>- NLP models for Sentiment Analysis and Topic Modelling<br>- Information Retrieval Models for paper search from PubMed database</p>
+<p align="left">- A comprehensive analysis of the efficacy of Therapeutic Chatbots (Bachelor’s Project, available on Linkedin)<br>- A Small-Scale Knowledge Graph of the Characters in Game of Thrones, programmed with Protégé<br>- An interactive program for user motivation and a brief exercise on NAO Robot<br>- NLP models for Sentiment Analysis and Topic Modelling (will be updated soon)<br>- Information Retrieval Models for paper search from PubMed database(will be updated soon)</p>
 
 ###
 
