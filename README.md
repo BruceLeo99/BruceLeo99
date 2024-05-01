@@ -56,6 +56,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuddR9WAPOLJcZzALuls9appXl2wGORlmaiiiYAgzedA&s" height="40" alt="git logo"  />
+  <img width="12" />
+  
 </div>
 
 ###
