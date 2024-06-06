@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating and fixing bugs since 2022 (And getting addicted to it 🧑‍💻)<br>📚 Currently an MSc Student of Artificial Intelligence at Vrije Universiteit Amsterdam<br>💬 I talk about: <b>NLP, Machine Learning, Data Analysis, Data Engineering, Human-Robot Interaction, Automata Theory, Cognitive Neuroscience</b>, Sharing and exchanging knowledge & experience<br>🎯 Willing to explore in the future: Reinforcement Learning, BCI, Computer Vision <br>🎲 Fun fact: People are sometimes jealous of my cooking skill 👨‍🍳 (Planning to open a personal cooking Instagram account in the future)</p>
+<p align="left">✨ Creating and fixing bugs since 2022 (And getting addicted to it 🧑‍💻)<br>📚 Currently an MSc Student of Artificial Intelligence at Vrije Universiteit Amsterdam<br>💬 I talk about: <b>NLP, Machine Learning, Data Analysis, Data Engineering, Statistics, Human-Robot Interaction, Automata Theory, Cognitive Neuroscience</b>, Sharing and exchanging knowledge & experience<br>🎯 Willing to explore in the future: Reinforcement Learning, BCI, Computer Vision, Signal Processing <br>🎲 Fun fact: People are sometimes jealous of my cooking skill 👨‍🍳 (Planning to open a personal cooking Instagram account in the future)</p>
 
 ###
 
