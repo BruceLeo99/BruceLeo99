@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating and fixing bugs since 2022 (And getting addicted to it 🧑‍💻)<br>📚 Currently an MSc Student of Artificial Intelligence at Vrije Universiteit Amsterdam<br>💬 I talk about: <b>NLP, Machine Learning, Data Analysis, Data Engineering, Statistics, Human-Robot Interaction, Automata Theory, Cognitive Neuroscience</b>, Sharing and exchanging knowledge & experience<br>🎯 Willing to explore in the future: Reinforcement Learning, BCI, Computer Vision, Signal Processing <br>🎲 Fun fact: People are sometimes jealous of my cooking skill 👨‍🍳 (Planning to open a personal cooking Instagram account in the future)</p>
+<p align="left">✨ Creating and fixing bugs since 2022 (And getting addicted to it 🧑‍💻)<br>📚 Currently an MSc Student of Artificial Intelligence at Vrije Universiteit Amsterdam<br>💬 I talk about: <b>NLP, Machine Learning, Evolutionary Computing,Data Analysis, Data Engineering, Statistics, Human-Robot Interaction, Automata Theory, Cognitive Neuroscience</b>, Sharing and exchanging knowledge & experience<br>🎯 Willing to explore in the future: Reinforcement Learning, BCI, Computer Vision, Signal Processing <br>🎲 Fun fact: People are sometimes jealous of my cooking skill 👨‍🍳 (Planning to open a personal cooking Instagram account in the future)</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- A comprehensive analysis of the efficacy of Therapeutic Chatbots (Bachelor’s Project, available on Linkedin)<br>- A Small-Scale Knowledge Graph of the Characters in Game of Thrones, programmed with Protégé<br>- An interactive program for user motivation and a brief exercise on NAO Robot<br>- NLP models for Sentiment Analysis and Topic Modelling (will be updated soon)<br>- Information Retrieval Models for paper search from PubMed database(will be updated soon)<br>-Hogwarts Sorting Hat, get to know which house you belong to!</p>
+<p align="left">- 🤖A comprehensive analysis of the efficacy of Therapeutic Chatbots (Bachelor’s Project, available on Linkedin)<br>- 🏡A Kaggle Competition of House Price Prediction with Advanced Regression Techniques<br>- 🥊A Boxing Movement Prediction Model with Time-Series Boxing Data<br>- 📚A Small-Scale Knowledge Graph of the Characters in Game of Thrones, programmed with Protégé<br>- 🤖An interactive program for user motivation and a brief exercise on NAO Robot<br>- 💬NLP models for Sentiment Analysis and Topic Modelling (will be updated soon)<br>- Information Retrieval Models for paper search from PubMed database(will be updated soon)<br>-Hogwarts Sorting Hat, get to know which house you belong to!</p>
 
 ###
 
