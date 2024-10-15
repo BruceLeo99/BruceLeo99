@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 🤖A comprehensive analysis of the efficacy of Therapeutic Chatbots (Bachelor’s Project, available on Linkedin)<br>- 🏡A Kaggle Competition of House Price Prediction with Advanced Regression Techniques<br>- 🥊A Boxing Movement Prediction Model with Time-Series Boxing Data<br>- 📚A Small-Scale Knowledge Graph of the Characters in Game of Thrones, programmed with Protégé<br>- 🤖An interactive program for user motivation and a brief exercise on NAO Robot<br>- 💬NLP models for Sentiment Analysis and Topic Modelling (will be updated soon)<br>- Information Retrieval Models for paper search from PubMed database(will be updated soon)<br>-Hogwarts Sorting Hat, get to know which house you belong to!</p>
+<p align="left">- 🤖A comprehensive analysis of the efficacy of Therapeutic Chatbots (Bachelor’s Project, available on Linkedin)<br>- 🏡A Kaggle Competition of House Price Prediction with Advanced Regression Techniques<br>- 🥊A Boxing Movement Prediction Model with Time-Series Boxing Data<br>- 📚A Small-Scale Knowledge Graph of the Characters in Game of Thrones, programmed with Protégé<br>- 🤖An interactive program for user motivation and a brief exercise on NAO Robot<br>- 💬NLP models for Sentiment Analysis and Topic Modelling (will be updated soon)<br>- ℹ️Information Retrieval Models for paper search from PubMed database(also working as a TA for this topic🎓)(code will be updated soon)<br>-🎩Hogwarts Sorting Hat, get to know which house you belong to!</p>
 
 ###
 
